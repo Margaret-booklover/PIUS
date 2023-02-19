@@ -1,5 +1,5 @@
 <?php
-require '../vendor/autoload.php';
+require '/home/margo/apps/PIUS/vendor/autoload.php';
 use Main\Employee;
 use Main\Department;
 echo "Hello from PHP <br>";
